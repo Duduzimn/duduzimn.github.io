@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'rl' ;
+    src: url(/public/assets/fonts/Bourgeois-Ultra.otf);
+    height:600px ;
+}
+@font-face {
+    font-family: 'rl1' ;
+    src: url(/public/assets/fonts/Bourgeois-Bold.woff2);
+    height:400px ;
+}
+@font-face {
+    font-family:'rl2' ;
+    src: url(/public/assets/fonts/Inter-Regular.woff2);
+    height: 400px;
+}
